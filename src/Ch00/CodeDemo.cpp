@@ -12,9 +12,9 @@ int main(){
     std::cout << "Enter number 2: " << std::flush;
     std::cin >> num_2;
     
-    result = num_1 + num_2;
+    result = num_1 + num_2 + num_1;
     
-    std::cout << "The result of the addition is " << result << std::endl;
+    std::cout << "Ahad The result of the addition is  " << result << std::endl;
     
     std::cout << std::endl << std::endl;
     return (0);
