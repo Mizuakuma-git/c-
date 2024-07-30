@@ -7,7 +7,7 @@
 
 int main(){
   
-  std::cout<<"Enter the Name"<<std::endl;
+  std::cout<<"Enter the Name"<<std::endl<<std::flush;
   
   std::string str;
   std::cin >> str;
