@@ -4,6 +4,7 @@ node_modules
 npm-debug.log
 
 # My addition
-*.exe
-*.out
-*.app
+src/Ch*.exe
+src/Ch*.out
+src/Ch*.app
+src/Ch*.
