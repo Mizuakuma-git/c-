@@ -7,8 +7,11 @@
 int main(){
     int nums[5] = {1,23,32,24,337};
     float result; 
+    int sum;
 
     // Write your code here
+    sum = nums[0] + nums[1] + nums[2] + nums[3] + nums[4];
+    result = sum / 5.0f;
     
     std::cout << "The average is " << result << std::endl;
     
